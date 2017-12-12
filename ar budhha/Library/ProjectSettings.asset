@@ -11,7 +11,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Unity Technologies
-  productName: Unity ARKit Plugin
+  productName: AR Budhha
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -142,9 +142,9 @@ PlayerSettings:
   resolutionScalingMode: 0
   applicationIdentifier:
     Android: com.Company.ProductName
-    Standalone: unity.Unity Technologies.Native Rendering Plugin Example
+    Standalone: com.nar.budhha
     Tizen: com.Company.ProductName
-    iOS: com.unity.arkitscene
+    iOS: com.nar.arbudhha
     tvOS: com.Company.ProductName
   buildNumber:
     iOS: 0
@@ -166,7 +166,7 @@ PlayerSettings:
     serializedVersion: 2
     m_Bits: 238
   iPhoneSdkVersion: 988
-  iOSTargetOSVersionString: 6.0
+  iOSTargetOSVersionString: 11.0
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 9.0
